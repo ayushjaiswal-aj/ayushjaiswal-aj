@@ -13,7 +13,7 @@
 
 📚 In my free time, I enjoy reading about new technologies and experimenting with new programming languages and frameworks. I'm also a firm believer in open-source software and enjoy contributing to and collaborating on community projects.
 
-📫 If you'd like to connect, feel free to connect on [linkedin](https://www.linkedin.com/in/ayush-jaiswal-539139177/) or check out some of my recent work on GitHub. Thanks for stopping by!
+📫 If you'd like to connect, feel free to connect on [linkedin](https://www.linkedin.com/in/ayush-jaiswal-539139177/) or reach out on [mail](mailto:ayushjaiswalaj@outlook.com) or check out some of my recent work on GitHub. Thanks for stopping by!
 
 
 <!---
