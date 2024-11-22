@@ -1,6 +1,6 @@
 👋 Hi there! I'm a Software Engineer with experience in ASP.NET Core, Java, C/C++ and Flutter programming.
 
-👨‍💻 I've worked on a variety of projects, ranging from web applications to mobile apps and embedded systems, and I'm always eager to learn more and take on new challenges.
+👨‍💻 I've worked on a variety of projects, ranging from web applications to mobile apps, and I'm always eager to learn more and take on new challenges.
 
 🌟 Some of my key skills include:
 
